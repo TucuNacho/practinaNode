@@ -1,0 +1,25 @@
+{
+  "name": "practicanode",
+  "version": "1.0.0",
+  "description": "practica de los primeros pasos con node.js",
+  "keywords": [
+    "node.js",
+    "esmodules",
+    "common.js"
+  ],
+  "homepage": "https://github.com/TucuNacho/practinaNode#readme",
+  "bugs": {
+    "url": "https://github.com/TucuNacho/practinaNode/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TucuNacho/practinaNode.git"
+  },
+  "license": "MIT",
+  "author": "ignacio joaquin barrojo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
